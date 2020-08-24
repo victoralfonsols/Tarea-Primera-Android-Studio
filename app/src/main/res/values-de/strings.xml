@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Studio erste Aufgabe</string>
+    <string name="Lenguaje">Di Sprache ist: Spanisch</string>
+    <string name="Ingresar">Eingeben</string>
+    <string name="Bienvenido">Willkommen</string>
+</resources>

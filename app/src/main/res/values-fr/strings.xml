@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Premiere Tache Du Android Studio</string>
+    <string name="Lenguaje">La Langue est l'espagnol</string>
+    <string name="Ingresar">s'identifier</string>
+    <string name="Bienvenido">Bienvenue</string>
+</resources>
